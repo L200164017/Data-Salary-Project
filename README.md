@@ -1,4 +1,4 @@
 # Data-Salary-Project
 
-#Credits
+# Credits
 https://github.com/arapfaik/scraping-glassdoor-selenium
